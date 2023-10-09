@@ -3,8 +3,6 @@ h
 gg
 f
 i
-<<<<<<< HEAD
-=======
 pig
 frog
->>>>>>> branch1
+
